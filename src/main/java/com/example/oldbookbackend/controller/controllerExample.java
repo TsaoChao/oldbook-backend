@@ -1,3 +1,3 @@
 package com.example.oldbookbackend.controller;
-public class controller_example {
+public class controllerExample {
 }
